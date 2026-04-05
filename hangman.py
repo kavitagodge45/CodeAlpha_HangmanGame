@@ -38,4 +38,4 @@ while wrong_guesses < max_attempts:
         break
 
 if wrong_guesses == max_attempts:
-    print("\n You Lost! The word was:", word)hangman.pyhangman.py
+    print("\n You Lost! The word was:", word)
